@@ -1,0 +1,6 @@
+C:\Users\koug\AppData\Local\Temporary Projects\Connexion_DB\bin\Debug\Connexion_DB.exe
+C:\Users\koug\AppData\Local\Temporary Projects\Connexion_DB\bin\Debug\Connexion_DB.pdb
+C:\Users\koug\AppData\Local\Temporary Projects\Connexion_DB\obj\x86\Debug\Connexion_DB.exe
+C:\Users\koug\AppData\Local\Temporary Projects\Connexion_DB\obj\x86\Debug\Connexion_DB.pdb
+C:\Users\koug\AppData\Local\Temporary Projects\Connexion_DB\bin\Debug\DB_Access.mdb
+C:\Users\koug\AppData\Local\Temporary Projects\Connexion_DB\bin\Debug\Connexion_DB.exe.config
